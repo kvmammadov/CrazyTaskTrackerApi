@@ -1,0 +1,12 @@
+            ${AnsiColor.39}///////////////
+           ${AnsiColor.39}///////////////  ${AnsiColor.18}$$\    $$\ $$$$$$$$\ $$$$$$$\
+          ${AnsiColor.39}///////////////   ${AnsiColor.18}$$ |   $$ |\__$$  __|$$  __$$\
+         ${AnsiColor.39}///////////////    ${AnsiColor.18}$$ |   $$ |   $$ |   $$ |  $$ |
+        ${AnsiColor.39}///////////////     ${AnsiColor.18}\$$\  $$  |   $$ |   $$$$$$$\ |
+                             ${AnsiColor.18}\$$\$$  /    $$ |   $$  __$$\
+                              ${AnsiColor.18}\$$$  /     $$ |   $$ |  $$ |
+                               ${AnsiColor.18}\$  /      $$ |   $$$$$$$  |
+                                ${AnsiColor.18}\_/       \__|   \_______/
+
+${AnsiColor.DEFAULT} :: ${AnsiColor.39} ${application.title} ${AnsiColor.DEFAULT}${application.formatted-version} ::
+${AnsiColor.DEFAULT} :: ${AnsiColor.71} Spring Boot${AnsiColor.DEFAULT}${spring-boot.formatted-version} ::
